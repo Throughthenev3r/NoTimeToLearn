@@ -210,7 +210,7 @@ function App() {
                   )}
                   <button
                     type="submit"
-                    className="bg-green-600 text-white py-2 rounded hover:bg-green-700 transition mx-auto w-full max-w-xs"
+                    className="bg-green-600 text-white py-2 rounded hover:bg-green-700 transition mx-auto w-full max-w-xs text-center"
                   >
                     Register
                   </button>
